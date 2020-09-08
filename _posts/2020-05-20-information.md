@@ -1,4 +1,4 @@
-##Post {{ post.title }}
+##Post {{ title }}
 
 Well...
 Finally got around to putting this old website together. 
