@@ -1,2 +1,5 @@
+# SITE CONFIGURATION
+baseurl: ""
+url: "https://iskrystall.github.io"
 theme: jekyll-theme-architect
 title: Velkommen
